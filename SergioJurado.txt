@@ -4,5 +4,7 @@ tengo 33 años y naci en Bogota capital de Colombia
 
 tendremos datos muy importantes
 
+Master 1 
+
 iniciando en el mundo de la programacion
 sin experiencia
